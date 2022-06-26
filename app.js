@@ -15,7 +15,7 @@
     ]
 
     const qoutesAuthor = [
-        "Konfuzius", 
+        "Confucius", 
         "Charles Dickens", 
         "Albert Einstein", 
         "Johann Wolfgang von Goethe", 
@@ -23,7 +23,7 @@
         "Mahatma Gandhi", 
         "Marie von Ebner-Eschenbach", 
         "Herbert George Wells", 
-        "Mutter Theresa", 
+        "Mother Theresa", 
         "Jean de La Bruyèr"
 
     ]
